@@ -1,0 +1,15 @@
+#main{
+    width:680px;
+    height: auto;
+    background-color: cadetblue;
+    border: 1px solid black;
+    display: inline-block;
+    float: right;
+    margin: 20px 50px 0 0;
+}
+P{
+    margin: 10px 0 0 5px;
+}
+.lorem{
+    margin: 10px 20px;
+}
